@@ -1,4 +1,4 @@
-* The README file: Read this file before continuing.
+The README file: Read this file before continuing.
 
 ## GIT
 
